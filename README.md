@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This is a test repo for the Coursera "Data Scientist's Toolbox" course project.
+This is a test repo for the Coursera JHU "Data Scientist's Toolbox" course project.
